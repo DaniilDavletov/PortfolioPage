@@ -34,11 +34,6 @@ body{
 }
 
 #row-about{
-  /*background-image: url(https://s25.postimg.org/wo7t1lea7/new_year_background.png);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-  background-position: 50% 95%;*/
   padding: 50px 70px;
 }
 
@@ -68,11 +63,6 @@ body{
 }
 
 #row-portfolio{
-  /*background-image: url("https://s25.postimg.org/6asx2jmvj/small_steps.png");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-  background-position: 50% 60%; */
   padding: 50px 70px 90px 70px;
 }
 
