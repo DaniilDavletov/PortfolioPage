@@ -1,0 +1,115 @@
+body{
+  padding-top: 50px;
+  position: relative;
+}
+
+.border{
+  border-color: red;
+  border-style: solid;
+}
+
+.navbar{
+  margin-bottom: 0;
+  border-radius: 0;
+ }
+
+#my-navbar-header a{
+  font-size: 24px;
+} 
+
+#my-navbar li a{
+  font-size: 16px;
+}
+
+#row-header{
+  background: rgba(0, 0, 0, 0.90);
+}
+
+.head-title{
+  text-align: center;
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 42px;
+  font-family: Courgette;
+}
+
+#row-about{
+  background-image: url("https://s25.postimg.org/5cn2qbqmn/sofa-Fast.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: 50% 95%;
+  padding: 90px 70px;
+}
+
+.title{
+  background: rgba(0, 0, 0, 0.65);
+  box-shadow: 0 1px 5px rgba(255, 255, 255, 0.25);
+  color: rgba(255, 255, 255, 0.85);
+  padding: 0px 20px 0px 20px;
+  font-size: 42px;
+  font-family: Montserrat;
+}
+
+.backdrop{
+  background: rgba(255, 255, 255, 0.85);
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+  color: rgba(0, 0, 0, 0.85);
+  font-family: Montserrat;
+  padding: 15px 15px 15px 15px;
+}
+
+#photoBlock{
+  height: 370px;
+}
+
+#photo{
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+}
+
+#row-portfolio{
+  background-image: url("https://s25.postimg.org/spgiv3hcf/building-Fast.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: 50% 60%; 
+  padding: 90px 70px;
+}
+
+.my-label{
+  font-family: Montserrat;
+  text-align: center;
+}
+
+#row-contact{
+  background: rgba(0, 0, 0, 0.90);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  padding: 20px;
+  background-position: 50% 35%;
+}
+
+.icon{
+  color: hsla(210, 100%, 65%, 0.7);
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+#action{
+  font-family: Courgette;
+  font-size: 42px;
+  color: hsla(210, 100%, 65%, 0.7);
+}
+
+footer{
+  color: hsla(0, 0%, 65%, 0.7);
+}
+
+.portfolioBlock{
+  height: 226px;
+}
+
+.img-responsive{
+  width: 100%;
+  height: 100%;
+}
